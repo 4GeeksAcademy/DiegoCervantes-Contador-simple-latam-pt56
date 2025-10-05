@@ -36,7 +36,6 @@ function SecondsCounter() {
     return (
         <div>
             <div className="container-fluid d-flex justify-content-center align-items-center bg-black gap-3">
-                <i className="fa-regular fa-clock p-4 bg-dark text-light fs-1 card"></i>
                 <div className="horas bg-dark text-light fs-1 card p-3">0</div>
                 <div className="bg-dark text-light fs-1 card p-3">:</div>
                 <div className="minutos bg-dark text-light fs-1 card p-3">0</div>
